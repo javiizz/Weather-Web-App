@@ -1,0 +1,2 @@
+numpy==1.26.4
+waitress==3.0.0
